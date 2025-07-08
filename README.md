@@ -17,7 +17,7 @@ useMemo where applicable.
 - Form Validation: Prevent users from adding empty tasks.
 
 3) Additional CSS Challenges
-
+   
 - Theming (Dark Mode / Light Mode Toggle)
 - Animations (CSS transitions for adding/removing tasks)
 - Responsive Design (Mobile-first approach)
